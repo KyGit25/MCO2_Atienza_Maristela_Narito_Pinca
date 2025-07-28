@@ -105,17 +105,27 @@ Who Questions:
 
 EXAMPLE USAGE SESSION
 ---------------------
-> John is the father of Mary
+
+> John is the father of Mary.
 OK! I learned something.
 
-> Sarah is the mother of Mary
+> Sarah is the mother of Mary.
 OK! I learned something.
 
-> Is John the father of Mary?
-Yes.
+> John and Sarah are the parents of Sam.
+OK! I learned something.
 
-> Who are the parents of Mary?
-John and Sarah.
+> Sam is a brother of Mary.
+OK! I learned something.
+
+> Who are the siblings of Mary.
+Invalid statement. Please follow the sentence patterns.
+
+> Who are the siblings of Mary?
+The siblings of Mary are: Sam.
+
+> Is sam a brother of Mary?
+Yes!
 
 > quit
 ByeBye:<
