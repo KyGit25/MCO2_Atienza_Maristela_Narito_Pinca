@@ -1,1 +1,0 @@
-# MCO2_Atienza_Maristela_Narito_Pinca
