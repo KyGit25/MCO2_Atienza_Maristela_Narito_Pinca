@@ -117,9 +117,6 @@ Yes.
 > Who are the parents of Mary?
 John and Sarah.
 
-> Are John and Sarah siblings?
-No.
-
 > quit
-Goodbye!
+ByeBye:<
 
